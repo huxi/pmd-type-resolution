@@ -1,6 +1,6 @@
 # Description
 
-This is a minimal example for [PMD issue 3330](https://github.com/pmd/pmd/issues/3330).
+This is a minimal example for [PMD issue 3330](https://github.com/pmd/pmd/issues/3330) and [Gradle issue 17410](https://github.com/gradle/gradle/issues/17410).
 
 
 When executing `./gradlew`, PMD will output the following:
